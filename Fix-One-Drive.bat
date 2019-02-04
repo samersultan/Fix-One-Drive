@@ -6,7 +6,7 @@ goto check_Permissions
 
     net session >nul 2>&1
     if %errorLevel% == 0 (
-        echo Success: Administrative permissions confirmed.
+        echo Success: Administrative permissions confirmed. Press Any Key...
     ) else (
         echo Failure: Current permissions inadequate.
     )
