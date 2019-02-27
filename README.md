@@ -1,6 +1,6 @@
 # Fix-One-Drive
 
-:muscle: Fix One Drive Not Opening / Syncing in Windows 10 :muscle:
+Fix One Drive (One Drive for Business) Not Opening / Syncing in Windows 10. 
 
 ----
 
