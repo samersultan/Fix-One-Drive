@@ -1,6 +1,6 @@
 # Fix One Drive Windows 10 Script 
 
-Fix One Drive (One Drive for Business) Not Opening / Syncing in Windows 10. 
+Fix One Drive (One Drive for Business) when not Opening / syncing in Windows 10. 
 
 ----
 
